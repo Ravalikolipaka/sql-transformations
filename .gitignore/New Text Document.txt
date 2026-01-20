@@ -1,0 +1,8 @@
+# Ignore data files
+*.csv
+*.parquet
+*.pdf
+
+# Ignore local files
+.env
+.DS_Store
